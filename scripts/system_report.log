@@ -1,0 +1,264 @@
+==========================================
+System Report - Fri Nov 21 08:00:01 UTC 2025
+==========================================
+Date & Time    : Fri Nov 21 08:00:01 UTC 2025
+Uptime         : up 1 hour, 47 minutes
+awk: cmd. line:1: {print $2 + $4}%
+awk: cmd. line:1:                ^ syntax error
+CPU Usage      : 
+Memory Usage   : 38.81%
+Disk Usage     : 33%
+Top 3 CPU Processes:
+  11057   10958 sshd: ubuntu@pts/2           0.0
+      1       0 /sbin/init                   0.0
+   1030     913 sshd: ubuntu@pts/0           0.0
+
+==========================================
+System Report - Fri Nov 21 08:05:01 UTC 2025
+==========================================
+Date & Time    : Fri Nov 21 08:05:01 UTC 2025
+Uptime         : up 1 hour, 52 minutes
+awk: cmd. line:1: {print $2 + $4}%
+awk: cmd. line:1:                ^ syntax error
+CPU Usage      : 
+Memory Usage   : 39.01%
+Disk Usage     : 33%
+Top 3 CPU Processes:
+  11057   10958 sshd: ubuntu@pts/2           0.0
+      1       0 /sbin/init                   0.0
+   1030     913 sshd: ubuntu@pts/0           0.0
+
+==========================================
+System Report - Fri Nov 21 08:10:01 UTC 2025
+==========================================
+Date & Time    : Fri Nov 21 08:10:01 UTC 2025
+Uptime         : up 1 hour, 57 minutes
+CPU Usage      : 0%
+Memory Usage   : 38.89%
+Disk Usage     : 33%
+Top 3 CPU Processes:
+  11057   10958 sshd: ubuntu@pts/2           0.0
+      1       0 /sbin/init                   0.0
+   1030     913 sshd: ubuntu@pts/0           0.0
+
+==========================================
+System Report - Fri Nov 21 08:15:01 UTC 2025
+==========================================
+Date & Time    : Fri Nov 21 08:15:01 UTC 2025
+Uptime         : up 2 hours, 2 minutes
+CPU Usage      : 0%
+Memory Usage   : 39.08%
+Disk Usage     : 33%
+Top 3 CPU Processes:
+  11057   10958 sshd: ubuntu@pts/2           0.0
+      1       0 /sbin/init                   0.0
+   1030     913 sshd: ubuntu@pts/0           0.0
+
+==========================================
+System Report - Fri Nov 21 08:20:01 UTC 2025
+==========================================
+Date & Time    : Fri Nov 21 08:20:01 UTC 2025
+Uptime         : up 2 hours, 7 minutes
+CPU Usage      : 0%
+Memory Usage   : 41.31%
+Disk Usage     : 33%
+Top 3 CPU Processes:
+  11057   10958 sshd: ubuntu@pts/2           0.0
+      1       0 /sbin/init                   0.0
+   1030     913 sshd: ubuntu@pts/0           0.0
+
+==========================================
+System Report - Fri Nov 21 08:25:01 UTC 2025
+==========================================
+Date & Time    : Fri Nov 21 08:25:01 UTC 2025
+Uptime         : up 2 hours, 12 minutes
+CPU Usage      : 4.8%
+Memory Usage   : 41.34%
+Disk Usage     : 33%
+Top 3 CPU Processes:
+  11967   11953 ps -eo pid,ppid,cmd,%cpu --  100
+  11057   10958 sshd: ubuntu@pts/2           0.0
+      1       0 /sbin/init                   0.0
+
+==========================================
+System Report - Fri Nov 21 08:30:01 UTC 2025
+==========================================
+Date & Time    : Fri Nov 21 08:30:01 UTC 2025
+Uptime         : up 2 hours, 17 minutes
+CPU Usage      : 0%
+Memory Usage   : 41.35%
+Disk Usage     : 33%
+Top 3 CPU Processes:
+  11974   11972 /bin/sh -c /usr/local/bin/s  3.7
+  11057   10958 sshd: ubuntu@pts/2           0.0
+      1       0 /sbin/init                   0.0
+
+==========================================
+System Report - Fri Nov 21 08:35:01 UTC 2025
+==========================================
+Date & Time    : Fri Nov 21 08:35:01 UTC 2025
+Uptime         : up 2 hours, 22 minutes
+CPU Usage      : 4.8%
+Memory Usage   : 40.12%
+Disk Usage     : 33%
+Top 3 CPU Processes:
+  12000       1 /usr/libexec/fwupd/fwupd     0.2
+  11057   10958 sshd: ubuntu@pts/2           0.0
+      1       0 /sbin/init                   0.0
+
+==========================================
+System Report - Fri Nov 21 08:40:01 UTC 2025
+==========================================
+Date & Time    : Fri Nov 21 08:40:01 UTC 2025
+Uptime         : up 2 hours, 27 minutes
+CPU Usage      : 0%
+Memory Usage   : 39.80%
+Disk Usage     : 33%
+Top 3 CPU Processes:
+  11057   10958 sshd: ubuntu@pts/2           0.0
+      1       0 /sbin/init                   0.0
+   1030     913 sshd: ubuntu@pts/0           0.0
+
+==========================================
+System Report - Fri Nov 21 08:45:01 UTC 2025
+==========================================
+Date & Time    : Fri Nov 21 08:45:01 UTC 2025
+Uptime         : up 2 hours, 32 minutes
+CPU Usage      : 4.8%
+Memory Usage   : 39.23%
+Disk Usage     : 33%
+Top 3 CPU Processes:
+  11057   10958 sshd: ubuntu@pts/2           0.0
+      1       0 /sbin/init                   0.0
+   1030     913 sshd: ubuntu@pts/0           0.0
+
+==========================================
+System Report - Fri Nov 21 08:50:01 UTC 2025
+==========================================
+Date & Time    : Fri Nov 21 08:50:01 UTC 2025
+Uptime         : up 2 hours, 37 minutes
+CPU Usage      : 0%
+Memory Usage   : 39.44%
+Disk Usage     : 33%
+Top 3 CPU Processes:
+  11057   10958 sshd: ubuntu@pts/2           0.0
+      1       0 /sbin/init                   0.0
+   1030     913 sshd: ubuntu@pts/0           0.0
+
+==========================================
+System Report - Fri Nov 21 08:55:01 UTC 2025
+==========================================
+Date & Time    : Fri Nov 21 08:55:01 UTC 2025
+Uptime         : up 2 hours, 42 minutes
+CPU Usage      : 4.8%
+Memory Usage   : 42.27%
+Disk Usage     : 33%
+Top 3 CPU Processes:
+  12224   12223 -bash                        0.2
+  12124     912 sshd: ubuntu [priv]          0.1
+  11057   10958 sshd: ubuntu@pts/2           0.0
+
+==========================================
+System Report - Fri Nov 21 09:00:01 UTC 2025
+==========================================
+Date & Time    : Fri Nov 21 09:00:01 UTC 2025
+Uptime         : up 2 hours, 47 minutes
+CPU Usage      : 0%
+Memory Usage   : 39.34%
+Disk Usage     : 33%
+Top 3 CPU Processes:
+  12373   12372 /bin/sh -c /usr/local/bin/s  7.1
+      1       0 /sbin/init                   0.0
+  11057   10958 sshd: ubuntu@pts/2           0.0
+
+==========================================
+System Report - Fri Nov 21 09:05:01 UTC 2025
+==========================================
+Date & Time    : Fri Nov 21 09:05:01 UTC 2025
+Uptime         : up 2 hours, 52 minutes
+CPU Usage      : 4.5%
+Memory Usage   : 42.21%
+Disk Usage     : 38%
+Top 3 CPU Processes:
+  12897       2 [kworker/u8:4-ext4-rsv-conv  0.2
+  12440       1 /usr/libexec/fwupd/fwupd     0.1
+  12223   12124 sshd: ubuntu@pts/3           0.0
+
+==========================================
+System Report - Fri Nov 21 09:10:01 UTC 2025
+==========================================
+Date & Time    : Fri Nov 21 09:10:01 UTC 2025
+Uptime         : up 2 hours, 57 minutes
+CPU Usage      : 4.8%
+Memory Usage   : 45.70%
+Disk Usage     : 41%
+Top 3 CPU Processes:
+  12973   12224 aws configure                0.2
+  12223   12124 sshd: ubuntu@pts/3           0.0
+      1       0 /sbin/init                   0.0
+
+==========================================
+System Report - Fri Nov 21 09:15:01 UTC 2025
+==========================================
+Date & Time    : Fri Nov 21 09:15:01 UTC 2025
+Uptime         : up 3 hours, 2 minutes
+CPU Usage      : 4.8%
+Memory Usage   : 49.22%
+Disk Usage     : 41%
+Top 3 CPU Processes:
+  12973   12224 aws configure                0.1
+  13076   13019 sshd: ubuntu@pts/4           0.0
+  12223   12124 sshd: ubuntu@pts/3           0.0
+
+==========================================
+System Report - Fri Nov 21 09:20:01 UTC 2025
+==========================================
+Date & Time    : Fri Nov 21 09:20:01 UTC 2025
+Uptime         : up 3 hours, 7 minutes
+CPU Usage      : 0%
+Memory Usage   : 47.94%
+Disk Usage     : 41%
+Top 3 CPU Processes:
+  12973   12224 aws configure                0.0
+  13076   13019 sshd: ubuntu@pts/4           0.0
+  12223   12124 sshd: ubuntu@pts/3           0.0
+
+==========================================
+System Report - Fri Nov 21 09:25:01 UTC 2025
+==========================================
+Date & Time    : Fri Nov 21 09:25:01 UTC 2025
+Uptime         : up 3 hours, 12 minutes
+CPU Usage      : 4.8%
+Memory Usage   : 47.62%
+Disk Usage     : 41%
+Top 3 CPU Processes:
+  12973   12224 aws configure                0.0
+  13076   13019 sshd: ubuntu@pts/4           0.0
+      1       0 /sbin/init                   0.0
+
+==========================================
+System Report - Fri Nov 21 09:30:01 UTC 2025
+==========================================
+Date & Time    : Fri Nov 21 09:30:01 UTC 2025
+Uptime         : up 3 hours, 17 minutes
+CPU Usage      : 0%
+Memory Usage   : 48.20%
+Disk Usage     : 41%
+Top 3 CPU Processes:
+  13076   13019 sshd: ubuntu@pts/4           0.0
+  12973   12224 aws configure                0.0
+      1       0 /sbin/init                   0.0
+
+==========================================
+System Report - Fri Nov 21 09:35:01 UTC 2025
+==========================================
+Date & Time    : Fri Nov 21 09:35:01 UTC 2025
+Uptime         : up 3 hours, 22 minutes
+CPU Usage      : 0%
+Memory Usage   : 47.44%
+Disk Usage     : 41%
+Top 3 CPU Processes:
+  12973   12224 aws configure                0.0
+  13076   13019 sshd: ubuntu@pts/4           0.0
+      1       0 /sbin/init                   0.0
+
